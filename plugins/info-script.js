@@ -3,9 +3,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 	// ‼️ NOTE: Link script Jangan diubah, dihapus atau diganti
 let text = `❏ *📮 Script Multi Device*
 │• *Script :* 
-│↳ github.com/AmmarrBN/Lord-MD
-│• *Node_Modules:*
-│↳ www.mediafire.com/file/q8ogv16wd5j7iju/node.tar.gz/file
+│↳ https://pinorecode.github.io/
 │• *Base :* 
 │↳ github.com/bochilgaming/games-wabot-md/
 ┗──────────═┅═──────────
