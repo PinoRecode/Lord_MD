@@ -475,7 +475,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `🎀 ${namebot}`,
-                        url: 'https://simple-api-lord-bot.herokuapp.com/'
+                        url: 'https://chat.whatsapp.com/CmlrDN2xl0lCl4eBHLe6IJ'
                     }
                 },
                 {
